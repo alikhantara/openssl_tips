@@ -1,6 +1,6 @@
 # How to create keystore with full key chain for connect from java to self-signed https server.
-I write this after non-pleasant meeting with IBM Integration Bus 
-Ok. 
+I write this after non-pleasant meeting with IBM Integration Bus  
+Ok.  
 You need client certificate(cert.crt), key(key.key), ca (ca.crt) and intermediate certificate (int.crt) from server side.  
 First make the full key chain .p12 (or .pfx):
 
